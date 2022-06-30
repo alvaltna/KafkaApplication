@@ -8,7 +8,7 @@ Start Spring Boot application which creates Producer and Consumer that use topic
 
 Can send messages to consumer through API endpoint localhost:8080/api/v1/messages  
 
-![Screenshot](Example.png) 
+![Screenshot](Example.PNG) 
 
 Messages can be seen in Spring Boot application terminal window.
 
