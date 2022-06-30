@@ -1,7 +1,7 @@
 # KafkaApplication
 Simple Apache Kafka Producer and Consumer application 
 
-##Getting Started
+## Getting Started
 
 Start Kafka Zookeeper and Kafka Broker by executing command 'docker-compose up' in directory where docker-compose is located.
 Start Spring Boot application which creates Producer and Consumer that use topic 'alvar' 
